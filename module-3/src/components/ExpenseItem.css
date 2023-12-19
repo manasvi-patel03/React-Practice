@@ -1,18 +1,24 @@
 .expense-item{
-    background-color: grey;
-    padding: 30px;
-    border-radius: 10px;
-    margin: 10px;
+    background-color: black;
 }
 .title{
     display: inline-block;
     padding-left: 40px;
-     
+     color: white;
+}
+.month{
+    font-size: 20px;
+    font-weight: bold;
 }
 .common-css{
     display: inline-block;
-    padding: 2px; 
+    padding: 22px;
+    border-radius: 10px;
+    text-align: center;
     align-items: center;
+    color: aliceblue;
+
+    background-color: rgb(69, 61, 61);
 }
 .price{
     font-size: 20px;
